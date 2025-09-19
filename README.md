@@ -2,6 +2,10 @@
 
 A comprehensive data collection and analysis toolkit for cosmetic product information and ingredient formulation research.
 
+Google Drive (Raws Data)
+
+https://drive.google.com/drive/folders/10htwGUZmsa3-XUg9TjnihBevG6_Cm-Pt?usp=drive_link
+
 ## 📋 Project Overview
 
 This repository contains two main components:
