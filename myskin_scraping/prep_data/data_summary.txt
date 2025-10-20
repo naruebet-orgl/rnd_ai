@@ -1,0 +1,22 @@
+MySkin Products Data Summary
+================================================================================
+
+Total products: 20,813
+
+Data Completeness:
+  Products with price:       6,321
+  Products with INCI:        2,669
+  Products with ingredients: 2,479
+  Products with benefits:    3,974
+
+Product Type Distribution:
+  reagent: 14,488
+  other: 2,872
+  fragrance: 1,533
+  oil: 703
+  unknown: 603
+  colorant: 323
+  extract: 168
+  emulsifier: 77
+  thickener: 32
+  preservative: 14

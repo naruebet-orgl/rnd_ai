@@ -1,0 +1,4 @@
+"id","topic_code","topic_detail","registration_document_id","logo_path","users_id","sob_master_id","record_status","created_at","updated_at"
+"1","FM","Master Formula","FM-PD-08","20221017_105829_logo_organics_cosme.png","","SOB001","1","",""
+"2","BMR","บันทึกการผลิต Batch Manufacturing Record (BMR)","FM-PD-09","20221017_105829_logo_organics_cosme.png","","","1","",""
+"3","FM","Master Formula","FM-RD-RD-001","Organics_Innovations_logo_-01.png","8","SOB003","1","","2025-01-28 04:01:08"
