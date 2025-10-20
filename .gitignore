@@ -92,3 +92,6 @@ node_modules/
 */raws/
 data/
 output/
+
+# Large SQL raw data files (over 50MB)
+internal_raw/sql_raw/activity_log.csv
